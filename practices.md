@@ -31,3 +31,7 @@ The Web Field Manual is a curated list of resources focused on documenting only 
 [Web Design Stack](http://webdesignstack.com)
 
 A categorized collection of resources.
+
+[wwwhere](http://wwwhere.io)
+
+Curated development and Design resources. Categorized by genre.
